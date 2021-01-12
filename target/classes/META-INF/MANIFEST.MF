@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: noikeda
+Build-Jdk: 11.0.9
+Implementation-Title: hajiboot-rest
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/hajiboot-rest/
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,11 @@
+settings:
+  region: ap-northeast-1
+  s3:
+    bucket: t-honda-test
+    file: "test.txt"
+spring:
+  profiles:
+    active: dev
+  thymeleaf:
+    mode: HTML
+hello: world
